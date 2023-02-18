@@ -133,7 +133,7 @@ components:
           example: Software Evolution
         grade:
           maximum: 10
-          minimum: 0
+          minimum: 1
           type: number
           example: 10
       example:
